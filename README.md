@@ -1,7 +1,5 @@
 # Week 3 Example 2: Full Fighting Game
 
-## What This Example Demonstrates
-
 > **Note for students:** This section is included in example files only to help you study. Do not include it in your Side Quest submissions.
 
 This example builds on Example 1 by adding health, attacking, hit detection, sound, and game states to create a complete two-player fighting game.
