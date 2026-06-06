@@ -52,8 +52,8 @@ The console will show any errors in your sketch.
 
 | File | Source |
 |------|--------|
-| `assets/images/desert-background.jpg` | From Stable Diffusion|
-| `assets/images/starting-screen.jpeg` | From Adobe Stock|
+| `assets/images/desert-background.jpg` [1] | From Stable Diffusion|
+| `assets/images/starting-screen.jpeg` [2] | From Adobe Stock|
 
 
 
